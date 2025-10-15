@@ -1,7 +1,7 @@
 In this repo, I have implemented `Yolo11` model from scratch.
 The purpose of writing this repo is so we can easily customize our Yolo11 model.
 It feels nightmare if you try to customize YOLO models from ultralytics.
-I have used some functions and class from ultralytics to make this repo fast.
+I have used some functions and class from ultralytics so I don't have to write them myself.
 If you have any suggestions for this repo or you wanna contribute, feel free to reach me.
 Or directly start contributing, starting from your first Issues.
 
